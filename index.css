@@ -1,0 +1,38 @@
+h1 {
+    color: rgba(255, 123, 0, 0.678);
+    text-align: center;
+}
+
+p {
+    color: rgb(255, 0, 13);
+}
+
+input { 
+    color: rgb(0, 4, 255);
+    background: white;
+}
+
+div {
+    display: grid;
+    justify-content: center;
+}
+
+#button-cadastrar {
+    width: 100%;
+}
+
+button {
+    display: flex;
+    justify-self: center;
+}
+
+input {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+#links{
+    width: 100%;
+    gap: 1rem;
+}
+
